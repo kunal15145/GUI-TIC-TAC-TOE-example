@@ -138,6 +138,7 @@ public class GameStartGui {
                 });
                 timer.start();
                 timer.setRepeats(false);
+                // changes here
             }
             if(command.equals("2"))
             {
